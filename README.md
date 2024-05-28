@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 🙋, I'm Mishaf Hasan</h1>
 <h3 align="center">A Computer Science Student of Uva Wellassa University of Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+<img align="right" alt="Coding" width="300" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mind-flayers&label=Profile%20views&color=0e75b6&style=flat" alt="mind-flayers" /> </p>
 
