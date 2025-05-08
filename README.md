@@ -64,16 +64,16 @@
 <p align="center">
   Feel free to connect with me on other platforms:
   <br/><br/> <!-- Added line breaks for better spacing -->
-  <a href="[https://twitter.com/mishafhasan](https://twitter.com/mishafhasan)" target="_blank">
+  <a href="https://twitter.com/mishafhasan" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mishaf Hasan on Twitter" height="40" width="50" /> <!-- Slightly increased size -->
   </a>    <!-- Spacing -->
-  <a href="[https://linkedin.com/in/mishaf-hasan](https://www.linkedin.com/in/mishaf-hasan-3234a7202)" target="_blank">
+  <a href="https://www.linkedin.com/in/mishaf-hasan-3234a7202" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mishaf Hasan on LinkedIn" height="40" width="50" />
   </a>   
-  <a href="[https://fb.com/mishafhasan](https://www.facebook.com/mmmishaf.hasan.3)" target="_blank">
+  <a href="https://www.facebook.com/mmmishaf.hasan.3" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mishaf Hasan on Facebook" height="40" width="50" />
   </a>   
-  <a href="[https://www.youtube.com/c/mind_flayerr](https://www.instagram.com/mishafhasan)" target="_blank">
+  <a href="https://www.instagram.com/mishafhasan" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mishaf Hasan on YouTube" height="40" width="50" />
   </a>
 </p>
