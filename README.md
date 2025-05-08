@@ -29,9 +29,10 @@
 ### 🚀 About Me
 
 - 🌱 I’m currently pursuing my **Computer Science and Technology degree**, diving deep into the world of software development and new technologies.
+- 💻 I'm worling on some projects in my free time.
 - 👨‍💻 All of my projects are available on [my GitHub Profile](https://github.com/mind-flayers). I'm always excited to collaborate and learn!
 - 📫 How to reach me: Drop me an email at **mishaf1106@gmail.com**.
-- ⚡ Fun fact: I'm always curious and love exploring new tech trends! (Optional: Add a real fun fact about yourself)
+- ⚡ Fun fact: I'm always curious and love exploring new tech trends and AI enthusias.
 
 ---
 
